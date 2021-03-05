@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clothing/static/css/main.3abb71ab.chunk.css",
+    "main.js": "/clothing/static/js/main.2099cd62.chunk.js",
+    "main.js.map": "/clothing/static/js/main.2099cd62.chunk.js.map",
+    "runtime-main.js": "/clothing/static/js/runtime-main.19ba4eb6.js",
+    "runtime-main.js.map": "/clothing/static/js/runtime-main.19ba4eb6.js.map",
+    "static/js/2.9d366a29.chunk.js": "/clothing/static/js/2.9d366a29.chunk.js",
+    "static/js/2.9d366a29.chunk.js.map": "/clothing/static/js/2.9d366a29.chunk.js.map",
+    "index.html": "/clothing/index.html",
+    "static/css/main.3abb71ab.chunk.css.map": "/clothing/static/css/main.3abb71ab.chunk.css.map",
+    "static/js/2.9d366a29.chunk.js.LICENSE.txt": "/clothing/static/js/2.9d366a29.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/clothing/static/media/background1.4b1778c5.jpg",
+    "static/media/crop.a3b8b585.jpg": "/clothing/static/media/crop.a3b8b585.jpg",
+    "static/media/floral.9ab5e0d9.jpg": "/clothing/static/media/floral.9ab5e0d9.jpg",
+    "static/media/onepiece.cfdfb775.jpg": "/clothing/static/media/onepiece.cfdfb775.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ba4eb6.js",
+    "static/js/2.9d366a29.chunk.js",
+    "static/css/main.3abb71ab.chunk.css",
+    "static/js/main.2099cd62.chunk.js"
+  ]
+}
