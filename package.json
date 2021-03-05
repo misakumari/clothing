@@ -1,8 +1,8 @@
 {
   "name": "ecom_web",
   "version": "0.1.0",
+  "homepage": "https://misakumari.github.io/clothing",
   "private": true,
-  "homepage": "http://misakumari.github.io/clothing",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -13,6 +13,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-stripe-checkout": "^2.6.3",
+    "request": "^2.88.2",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
